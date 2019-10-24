@@ -1,5 +1,6 @@
+/* 자주 사용하는 라이브러리 */
 /* 노말라이즈 */
-body, ul, li {
+body, ul, li, h1 {
     margin:0;
     padding:0;
     list-style:none;
@@ -78,11 +79,4 @@ a {
     position:absolute;
     top:50%;
     transform:translateY(-50%);
-}
-
-
-/* 커스텀 */
-.top-bar > ul > li > a {
-    display: block;
-    padding: 10px;
 }

@@ -1,0 +1,26 @@
+/* 개인정보 */
+.info {
+    background-color: black;
+}
+.info > nav >ul > li > a {
+    display: block;
+    padding: 10px;    
+    color:white;
+    font-size: 0.9rem;
+}
+
+/* 블로그 제목 */
+.title-box-1 {
+    display: block;
+    text-align: center;
+}
+
+/* 글목록 */
+.menu-list-box > ul > li {
+    width:50%;
+    height:50%;
+}
+.menu-list-box > ul > li > a {
+    display: block;
+    padding: 10px;
+}
