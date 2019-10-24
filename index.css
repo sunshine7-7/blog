@@ -17,8 +17,7 @@
 
 /* 글목록 */
 .menu-list-box > ul > li {
-    width:50%;
-    height:50%;
+    width:50%;    
 }
 .menu-list-box > ul > li > a {
     display: block;
